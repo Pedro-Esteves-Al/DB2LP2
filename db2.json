@@ -1,0 +1,44 @@
+{
+    "Categoria": [
+      {
+        "id": 1,
+        "tipo": "A"
+      },
+      {
+        "id": 2,
+        "tipo": "B"
+      },
+      {
+        "id": 3,
+        "tipo": "C"
+      }
+    ],
+    "LocaisExameTeorico": [
+      {
+        "id": 1,
+        "nome": "UAI - Jardim Norte"
+      },
+      {
+        "id": 2,
+        "nome": "UAI - Shopping Independência"
+      },
+      {
+        "id": 3,
+        "nome": "UAI - Centro"
+      }
+    ],
+    "LocaisExamePratico": [
+        {
+          "id": 1,
+          "nome": "Motopista Inicial"
+        },
+        {
+          "id": 2,
+          "nome": "Motopista Universidade"
+        },
+        {
+          "id": 3,
+          "nome": "Monte Castelo"
+        }
+    ]
+  }
