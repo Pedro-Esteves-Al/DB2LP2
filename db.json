@@ -16,29 +16,29 @@
     "LocaisExameTeorico": [
       {
         "id": 1,
-        "nome": "UAI - Jardim Norte"
+        "localExameTeorico": "UAI - Jardim Norte"
       },
       {
         "id": 2,
-        "nome": "UAI - Shopping Independência"
+        "localExameTeorico": "UAI - Shopping Independência"
       },
       {
         "id": 3,
-        "nome": "UAI - Centro"
+        "localExameTeorico": "UAI - Centro"
       }
     ],
     "LocaisExamePratico": [
         {
           "id": 1,
-          "nome": "Motopista Inicial"
+          "localExamePratico": "Motopista Inicial"
         },
         {
           "id": 2,
-          "nome": "Motopista Universidade"
+          "localExamePratico": "Motopista Universidade"
         },
         {
           "id": 3,
-          "nome": "Monte Castelo"
+          "localExamePratico": "Monte Castelo"
         }
     ]
   }
