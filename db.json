@@ -1,44 +1,70 @@
 {
-    "Categoria": [
-      {
-        "id": 1,
-        "tipo": "A"
-      },
-      {
-        "id": 2,
-        "tipo": "B"
-      },
-      {
-        "id": 3,
-        "tipo": "C"
-      }
-    ],
-    "LocaisExameTeorico": [
-      {
-        "id": 1,
-        "localExameTeorico": "UAI - Jardim Norte"
-      },
-      {
-        "id": 2,
-        "localExameTeorico": "UAI - Shopping Independência"
-      },
-      {
-        "id": 3,
-        "localExameTeorico": "UAI - Centro"
-      }
-    ],
-    "LocaisExamePratico": [
-        {
-          "id": 1,
-          "localExamePratico": "Motopista Inicial"
-        },
-        {
-          "id": 2,
-          "localExamePratico": "Motopista Universidade"
-        },
-        {
-          "id": 3,
-          "localExamePratico": "Monte Castelo"
-        }
-    ]
-  }
+  "Categoria": [
+    {
+      "id": 1,
+      "tipo": "A"
+    },
+    {
+      "id": 2,
+      "tipo": "B"
+    },
+    {
+      "id": 3,
+      "tipo": "C"
+    }
+  ],
+  "LocaisExameTeorico": [
+    {
+      "id": 1,
+      "localExameTeorico": "UAI - Jardim Norte"
+    },
+    {
+      "id": 2,
+      "localExameTeorico": "UAI - Shopping Independência"
+    },
+    {
+      "id": 3,
+      "localExameTeorico": "UAI - Centro"
+    }
+  ],
+  "LocaisExamePratico": [
+    {
+      "id": 1,
+      "localExamePratico": "Motopista Inicial"
+    },
+    {
+      "id": 2,
+      "localExamePratico": "Motopista Universidade"
+    },
+    {
+      "id": 3,
+      "localExamePratico": "Monte Castelo"
+    }
+  ],
+  "examesPraticos": [
+    {
+      "id": 1,
+      "dataExamePratico": "10-11-2023",
+      "horarioExamePratico": "09:00",
+      "categoria": 1,
+      "instrutor": 1,
+      "veiculo": 1
+    },
+    {
+      "id": 2,
+      "dataExamePratico": "11-11-2023",
+      "horarioExamePratico": "10:30",
+      "categoria": 2,
+      "instrutor": 2,
+      "veiculo": 2
+    },
+    {
+      "id": 3,
+      "dataExamePratico": "12-11-2023",
+      "horarioExamePratico": "14:15",
+      "categoria": 3,
+      "instrutor": 3,
+      "veiculo": 3
+    }
+  ]
+}
